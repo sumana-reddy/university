@@ -22,8 +22,11 @@ here are some of the buildings listed below
 
 ## links
 below are the links provided to know about the university briefly
+
 [nwmsu wiki](https://en.wikipedia.org/wiki/Northwest_Missouri_State_University)
+
 [nwmsu home](https://www.nwmissouri.edu/)
+
 [nwmsu athletics](https://bearcatsports.com/)
 
 
