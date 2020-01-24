@@ -16,9 +16,9 @@ here are some of the buildings listed below
 - Colden Hall
 - Valk Center
 
-1 library
-2 Student Union
-3 Administration Building
+1. library
+1. Student Union
+1. Administration Building
 
 ## links
 below are the links provided to know about the university briefly
