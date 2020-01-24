@@ -5,6 +5,7 @@
  Northwest Missouri State University is a public university founded in 1905. It is located in Maryville, Missouri.
 
 [NWMSU](https://www.nwmissouri.edu/)
+
 ![VISIT](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nwmsu-bell.jpg/220px-Nwmsu-bell.jpg)
 
 ![administration building](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nwmsu-admin.jpg/250px-Nwmsu-admin.jpg)
