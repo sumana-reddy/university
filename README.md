@@ -10,6 +10,8 @@
 
 ![administration building](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nwmsu-admin.jpg/250px-Nwmsu-admin.jpg)
 
+![History](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nwmsu-college.jpg/100px-Nwmsu-college.jpg)
+
 ## list
 
 here are some of the buildings listed below 
